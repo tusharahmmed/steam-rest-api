@@ -1,0 +1,155 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\.6187053685c41211f36fdaabfee4e3b2856f674e-audit.json",
+    "files": [
+        {
+            "date": 1704459377668,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-05-01-18-error.log",
+            "hash": "cd753dd078de644f412761b1b5810d851442652a2a331ce1d56c41c3e543fd41"
+        },
+        {
+            "date": 1704463316307,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-05-01-20-error.log",
+            "hash": "952727e1c79da808113f65d383869b0a62e0eaa373046f5682292317524ef321"
+        },
+        {
+            "date": 1704468952647,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-05-01-21-error.log",
+            "hash": "816701c50d3efc4782927489599727b84bb38be32543a4c9f5f08affab0f128a"
+        },
+        {
+            "date": 1704517507907,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-06-01-11-error.log",
+            "hash": "8f90386b796eb31cc91fae2d3a557a611f8b2cd1a9a648d58df01205b89e2547"
+        },
+        {
+            "date": 1704522341657,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-06-01-12-error.log",
+            "hash": "0f358cdeb22e9e5703265637bb17bfe3ee1ff913d82f7dafc0c0a2bae2059b71"
+        },
+        {
+            "date": 1704700570919,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-08-01-13-error.log",
+            "hash": "0f32b7ca7426d5acacdaba46319746888894e9d7ad29f452a400a996a91f564b"
+        },
+        {
+            "date": 1704709984869,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-08-01-16-error.log",
+            "hash": "f1db61eed160a4b35cd5eb830ef13472db1586feefb39d93e67c62c1c13356c7"
+        },
+        {
+            "date": 1704724580763,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-08-01-20-error.log",
+            "hash": "ad076a15f5654e5fb069afc862b1b3ceda471b716edc7c3cde422b52d5b64435"
+        },
+        {
+            "date": 1704727788964,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-08-01-21-error.log",
+            "hash": "560a22521f951a117ef4b3409417c57f0a1094abe7966289c797de3fefd07378"
+        },
+        {
+            "date": 1704729603007,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-08-01-22-error.log",
+            "hash": "aee554814ed44e8f8b678404979727eba22965890d56a9edf57bf3fd1ff95929"
+        },
+        {
+            "date": 1704803331059,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-09-01-18-error.log",
+            "hash": "b14694bceedb995c3b0f9d18a9ac4636accc53c8b0657ac54f975653b98b46e9"
+        },
+        {
+            "date": 1704807837974,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-09-01-19-error.log",
+            "hash": "8efa2cf651ae1830c66d76eba643151c87bafc9fe5ce1451d4160191c5291b8c"
+        },
+        {
+            "date": 1704808929476,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-09-01-20-error.log",
+            "hash": "24c8dcd3ab538c2f3ce2e4d7a9c63c6ccde5b60898287c926b6714b4d499260d"
+        },
+        {
+            "date": 1704816044662,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-09-01-22-error.log",
+            "hash": "44c0e17bb5094ee8be2dfb508464ca894565f20dac7473931095cb4179df6ffa"
+        },
+        {
+            "date": 1704868549113,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-10-01-12-error.log",
+            "hash": "797b37879b0298b297e1b73bcc72f2510a135a129266be15c6c1c92359966dca"
+        },
+        {
+            "date": 1704870402176,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-10-01-13-error.log",
+            "hash": "9e33406a21da10d05a3422dd7e8467ae42e7402e749aedc8da7f5c7e39416313"
+        },
+        {
+            "date": 1704879185914,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-10-01-15-error.log",
+            "hash": "287ca1076a1639fb578fdb83f761b5a98986f8c3bc0694ca45ceb1eb71d68093"
+        },
+        {
+            "date": 1704880804500,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-10-01-16-error.log",
+            "hash": "08cdc9914389f7cdd31ef6ca9065f227bfa312c3b9739c5076d274a8a79e57f5"
+        },
+        {
+            "date": 1704981984422,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-11-01-20-error.log",
+            "hash": "d1c653586387911333b4ea368e9641122bf86590c4e7f5476864042286cbbec3"
+        },
+        {
+            "date": 1705038516357,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-11-error.log",
+            "hash": "061d5c91abbef12f217816d5c611f0ebd799df871db0914f03d9ac44c0a5d3d1"
+        },
+        {
+            "date": 1705061761853,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-18-error.log",
+            "hash": "9f86b33f5eb93a7c1d45bc46c43426fafc7b973448b4f87b61a0216c661177cf"
+        },
+        {
+            "date": 1705066933608,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-19-error.log",
+            "hash": "4c2d427b1e50347cb4287739cb6f2758943791126ba9ec739b68eb56cdcb04f1"
+        },
+        {
+            "date": 1705068288309,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-20-error.log",
+            "hash": "15cb7e35759d0e5b82530c4b024a42a1bec381fda4d23707b635c2aa1e041e68"
+        },
+        {
+            "date": 1705074980752,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-21-error.log",
+            "hash": "03bfbbb8b7743aa20d4ba3e278e4fc76391c8045078ab50a6216cdd56f0a17de"
+        },
+        {
+            "date": 1705075555812,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-22-error.log",
+            "hash": "2c4a955e2e2c325682ddde1c257e19791f6bdde8836550054f2c4731640f8e8a"
+        },
+        {
+            "date": 1705078953265,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-12-01-23-error.log",
+            "hash": "33de12ea4a1ae3daaa72abcc6886733ddb758aabd5dc027cd9b0adb5a6eb7118"
+        },
+        {
+            "date": 1705222931782,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-14-01-15-error.log",
+            "hash": "7e3241a4dce74de1a0d0ce735b8eed5550101fa1b61d0fade350361eea676c66"
+        },
+        {
+            "date": 1705227908449,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-14-01-16-error.log",
+            "hash": "7b5dc05de4afb027a8b501a396d4b4a7900c0dd4de2e0afe0ab13c8043ab7e84"
+        },
+        {
+            "date": 1705235272093,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\errors\\4u-2024-14-01-18-error.log",
+            "hash": "691ef0c2bfbfd3639166835ff7849b07dfd38c7ffb6ba4e2d2eb480f37d7034c"
+        }
+    ],
+    "hashType": "sha256"
+}

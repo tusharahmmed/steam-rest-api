@@ -1,0 +1,114 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum USER_ROLE {
+  hr
+  admin
+  super_admin
+}
+
+model User {
+  id           String    @id @default(uuid())
+  name         String?
+  serName      String?
+  email        String    @unique
+  password     String
+  phone        String?   @default("")
+  role         USER_ROLE
+  permissions  String[]
+  profileImage String?   @default("")
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@map("users")
+}
+
+model Truck {
+  id          String   @id @default(uuid())
+  title       String
+  description String
+  pallets     String
+  weight      String
+  doorSize    String
+  cargoSpace  String
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("trucks")
+}
+
+enum STATUS {
+  pending
+  canceled
+  completed
+}
+
+model QuoteRequest {
+  id          String   @id @default(uuid())
+  name        String
+  serName     String
+  phone       String
+  email       String
+  pickupZip   String
+  deliveryZip String
+  totalPices  String
+  totalWeight Decimal
+  question    String
+  status      STATUS   @default(pending)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("quote_requestes")
+}
+
+model DriverRequest {
+  id              String   @id @default(uuid())
+  name            String
+  serName         String
+  phone           String
+  email           String
+  mcNumber        String
+  loadDescription String
+  status          STATUS   @default(pending)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("driver_requestes")
+}
+
+model CustomerRequest {
+  id               String   @id @default(uuid())
+  name             String
+  serName          String
+  phone            String
+  email            String
+  truckType        String
+  truckDescription String
+  status           STATUS   @default(pending)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@map("custormer_requestes")
+}
+
+model Review {
+  id          String  @id @default(uuid())
+  name        String
+  description String
+  image       String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("reviews")
+}

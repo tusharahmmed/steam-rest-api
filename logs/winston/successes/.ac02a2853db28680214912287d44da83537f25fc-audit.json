@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\.ac02a2853db28680214912287d44da83537f25fc-audit.json",
+    "files": [
+        {
+            "date": 1704459377613,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-05-01-18-success.log",
+            "hash": "0b7279c0e6fc9607dc0cc9430a614c377f52a9f0ba93b8e10310d05cc6aecfb9"
+        },
+        {
+            "date": 1704459660673,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-05-01-19-success.log",
+            "hash": "ddcae6d3dd6e81467821c7b95bbaf15e20d872733386c030b35cf035c07da7a5"
+        },
+        {
+            "date": 1704463316218,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-05-01-20-success.log",
+            "hash": "f44cc82d42411bbb16b8703134f1ecdebc054db61c5ec8afa616b36f6f5a9a94"
+        },
+        {
+            "date": 1704468952573,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-05-01-21-success.log",
+            "hash": "5e540ede475c592e88aa2af80283dca57e92a06f9de98273fdd4e7919c2134a9"
+        },
+        {
+            "date": 1704517507795,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-06-01-11-success.log",
+            "hash": "d4ae187ac8aeded7d2b6020ebbc01afd356bf9a8fea58bac977c275b00283513"
+        },
+        {
+            "date": 1704522341639,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-06-01-12-success.log",
+            "hash": "b16a081cfb3bed03cebc7d6059b7e622c9233a8031c36e2725d0fe2f7a95c366"
+        },
+        {
+            "date": 1704700570800,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-08-01-13-success.log",
+            "hash": "5b18de8f90e53a9f8ff13c09aba4291553f2bb8c49140ad59ea033c8462b7f38"
+        },
+        {
+            "date": 1704709984769,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-08-01-16-success.log",
+            "hash": "1eae96e280564256e62bfea0eae6e49ab4967b06459d3157c796f7e7000b15d5"
+        },
+        {
+            "date": 1704724580303,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-08-01-20-success.log",
+            "hash": "5f894b7be002b4519e62923d7c2ae0972aa132de6b95127e25ac800b3d4fbb82"
+        },
+        {
+            "date": 1704727788950,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-08-01-21-success.log",
+            "hash": "6468b2f7cff451217ce41d18e2aeeafec99529e38baa9d1256c5be43b4069ae3"
+        },
+        {
+            "date": 1704729603002,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-08-01-22-success.log",
+            "hash": "c08c3f1c62fdf2854bade1622c4d83afd81e9097a593bfee8e85edc0359405e2"
+        },
+        {
+            "date": 1704803330413,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-09-01-18-success.log",
+            "hash": "5e1a18dd37fa33285fc11ca88a0191a76084f73bd317651ceedcd240e26075b8"
+        },
+        {
+            "date": 1704807837747,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-09-01-19-success.log",
+            "hash": "8165325ee3780ba03200e178102183bab462c7ef03833caee1449dd17b3e5f2c"
+        },
+        {
+            "date": 1704808929466,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-09-01-20-success.log",
+            "hash": "7de84599cb52d0c2d34c4e7c4c746f3b8356ea51beee5523480650f0f3b04ab0"
+        },
+        {
+            "date": 1704816044620,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-09-01-22-success.log",
+            "hash": "e8782ce6e66da32e066dcdb609876f7339b245d0e10abea21a00da604ee406ba"
+        },
+        {
+            "date": 1704868549014,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-10-01-12-success.log",
+            "hash": "bc66892847bb74a9c6aa2bc1fb45be1933f48e93f9d03fafa39a0cd9b6af2e8f"
+        },
+        {
+            "date": 1704870402144,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-10-01-13-success.log",
+            "hash": "e7ac26af496d1276d438e377fe4681ce8b637077ed03e48ecc00713a86d2e6a9"
+        },
+        {
+            "date": 1704879185694,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-10-01-15-success.log",
+            "hash": "7cc46897b953287a6e417054ae0e97c4415b52daa39a6ade4cd406b2f23aa86b"
+        },
+        {
+            "date": 1704880804494,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-10-01-16-success.log",
+            "hash": "8e1c6d551768e35c3d0512a6c248f3aa85d2cd2b34af3d938823fe751932ab24"
+        },
+        {
+            "date": 1704981984348,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-11-01-20-success.log",
+            "hash": "fce3c0940423d4e2240c3c814945bce37f806d07fe7c8eafafef079bfbc09513"
+        },
+        {
+            "date": 1705038516235,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-11-success.log",
+            "hash": "b3112c9e82103513c5f6c3bb4bc1fdb8893b655cef30cef559b7bf0ee7f91394"
+        },
+        {
+            "date": 1705061760975,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-18-success.log",
+            "hash": "9e06fe15135b5f6d5cae34a32bbef0827e236b8167924dd3e249f9746ca8f8fe"
+        },
+        {
+            "date": 1705066933498,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-19-success.log",
+            "hash": "1eee356afbf5f43967d209a65c144c86f9b711867af6110da56e682ffaf6e467"
+        },
+        {
+            "date": 1705068288287,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-20-success.log",
+            "hash": "d0fd05eebb135e4a49f9e61033e1c067ba12a72ea7a6f9ee3927b987f513da21"
+        },
+        {
+            "date": 1705074980728,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-21-success.log",
+            "hash": "96815714b1a5652714fbeb3b4b44a7ba907543960891e5b59ce16beedf6cdfe9"
+        },
+        {
+            "date": 1705075555792,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-22-success.log",
+            "hash": "c79ff642f6c01f125de17226385a6f556f48ca2dd7b835cb4f6af9578f2a0c56"
+        },
+        {
+            "date": 1705078953217,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-12-01-23-success.log",
+            "hash": "609cbc8d85d6ba4e384d01c7d7f0104a58595f03eab6b66b3b83fe4b59e49bad"
+        },
+        {
+            "date": 1705222931600,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-14-01-15-success.log",
+            "hash": "0c20d830b0ef4c02b48aed115bc65090371550def573ed5764ef2da15bb9d2c9"
+        },
+        {
+            "date": 1705227908319,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-14-01-16-success.log",
+            "hash": "04c61aba35addc6b4b00c0b27662489ac193751caa1b344278ab40360abcecf2"
+        },
+        {
+            "date": 1705235271564,
+            "name": "E:\\courses\\programmingHero\\Nexus Projects\\4u-logistics\\4u-backend\\logs\\winston\\successes\\4u-2024-14-01-18-success.log",
+            "hash": "a2525e746ef4a9fa0cf953067ce16c15ff33cceb206f928568020b7343555702"
+        }
+    ],
+    "hashType": "sha256"
+}
